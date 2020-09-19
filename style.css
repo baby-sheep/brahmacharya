@@ -17,7 +17,7 @@ hr {
 h1 {
   color: White;
   font-weight: 700;
-  font-size: 75px;
+  font-size: 50px;
   margin: 0;
 }
 
@@ -45,7 +45,10 @@ section {
 }
 
 footer {
+  padding: 0;
+  margin: 0;
   text-align: Center;
+  display: inline;
 }
 .header {
   background-image: url(Images/Sunset.jpg);
