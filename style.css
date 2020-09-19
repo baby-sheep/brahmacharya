@@ -3,6 +3,10 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+ul li {
+  list-style-type: none;
+}
+
 h1 {
   color: White;
   font-weight: 700;
@@ -48,7 +52,7 @@ section {
 }
 
 .btn {
-  display: inline;
+  display: inline-block;
   padding: 1em 2em;
   text-decoration: none;
 }
@@ -86,10 +90,7 @@ section {
 
 
 
-ul li {
-  color: White;
-  text-decoration: none;
-}
+
 blockquote {
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
