@@ -31,6 +31,7 @@ a {
 
 .header {
   background-color: rgb(41,62,70);
+  color: White;
 }
 
 .content {
@@ -39,6 +40,7 @@ a {
 
 .footer {
   background-image: url(Sunset.jpg);
+  color: White;
 }
 
 
