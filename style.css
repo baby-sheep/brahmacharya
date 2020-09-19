@@ -29,6 +29,43 @@ a {
   margin: 0 auto;
 }
 
+.header {
+  background-color: rgb(41,62,70);
+}
+
+.content {
+  background-color: rgb(154,199,195);
+}
+
+.footer {
+  background-image: url(Sunset.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ul li {
   color: White;
 }
