@@ -1,4 +1,4 @@
-* {
+*, ::before, ::after {
   transition: all ease-in-out 250ms;
 }
 body {
