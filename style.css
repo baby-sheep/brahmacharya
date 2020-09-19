@@ -29,6 +29,10 @@ a {
   margin: 0 auto;
 }
 
+section {
+  padding: 100px 0;
+}
+
 .header {
   background-color: rgb(41,62,70);
   color: White;
