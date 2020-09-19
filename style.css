@@ -47,8 +47,22 @@ section {
   color: White;
 }
 
+.btn {
+  display: inline;
+  padding: 1em 2em;
+  text-decoration: none;
+}
+.btn-normal {
+  background: rgb(36,149,146);
+}
 
+.btn-normal:hover {
+  background: rgb(36,128,125);
+}
 
+.btn-ghost {
+  display: inline-block;
+}
 
 
 
@@ -74,6 +88,7 @@ section {
 
 ul li {
   color: White;
+  text-decoration: none;
 }
 blockquote {
   border-left: 10px solid #ccc;
