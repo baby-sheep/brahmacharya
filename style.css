@@ -57,17 +57,14 @@ section {
   text-decoration: none;
 }
 .btn-normal {
-  background: rgb(36,149,146);
+  border: 2px solid white;
+  color: white;
 }
 
 .btn-normal:hover {
-  background: rgb(36,128,125);
+  background: white;
+  color: black;
 }
-
-.btn-ghost {
-  display: inline-block;
-}
-
 
 
 
