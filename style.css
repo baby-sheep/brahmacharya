@@ -10,6 +10,10 @@ ul li {
   list-style-type: none;
 }
 
+hr {
+  color: white;
+}
+
 h1 {
   color: White;
   font-weight: 700;
@@ -40,17 +44,21 @@ section {
   padding: 100px 0;
 }
 
+footer {
+  text-align: Center;
+}
 .header {
-  background-color: rgb(41,62,70);
+  background-image: url(Images/Sunset.jpg);
   color: White;
+  text-align: Center;
 }
 
 .content {
   background-color: rgb(154,199,195);
 }
 
-.footer {
-  background-image: url(Sunset.jpg);
+.end {
+  background-color: rgb(100,120,90);
   color: White;
 }
 
